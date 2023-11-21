@@ -9,7 +9,7 @@ You need to modify the base.js file..
 When you modify the file just change the name of the place u are attacking before running the cloner...
 Creates 10 clones of the base script
 
-File Name: base.js
+File Name: copy.js
 ```js
 cp base.js base1.js
 cp base.js base2.js
