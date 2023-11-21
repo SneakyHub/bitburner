@@ -106,3 +106,13 @@ Copying and running in 1 command (just change the number to make it another proc
 ```
 cp base.js base18.js; run base18.js
 ```
+
+Download Scripts
+```js
+wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/base.js base.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/clone.js clone.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/run.js run.js; nano base.js
+```
+
+Copy and Run base file
+```js
+cp base.js base1.js; cp base.js base2.js; cp base.js base3.js; cp base.js base4.js; cp base.js base5.js; cp base.js base6.js; cp base.js base7.js; cp base.js base8.js; cp base.js base9.js; cp base.js base10.js; cp base.js base11.js; cp base.js base12.js; cp base.js base13.js; cp base.js base14.js; cp base.js base15.js; cp base.js base16.js; cp base.js base17.js; cp base.js base18.js; cp base.js base19.js; cp base.js base20.js; run base.js; run base1.js; run base2.js; run base3.js; run base4.js; run base5.js; run base6.js; run base7.js; run base8.js; run base9.js; run base10.js; run base11.js; run base12.js; run base13.js; run base14.js; run base15.js; run base16.js; run base17.js; run base18.js; run base19.js; run base20.js;
+```
