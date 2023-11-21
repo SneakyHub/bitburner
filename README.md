@@ -1,6 +1,25 @@
 # bitburner
 Welcome to my collection of bitburner scripts
 
+# Base Script
+
+!!! WARNING !!!
+This script is what you'll need to modify before using the clone.js file! If you execute the clone.js file before editing the base.js file then you've messed up!
+
+File Name: base.js
+```
+export async function main(ns) {
+    while(true) {
+    await ns.weaken('iron-gym');
+    await ns.hack('iron-gym');
+    await ns.hack('iron-gym');
+    await ns.hack('iron-gym');
+    await ns.hack('iron-gym');
+    await ns.hack('iron-gym');
+    }
+}
+```
+
 
 # Clone ing (cant spell) lol
 
@@ -9,7 +28,7 @@ You need to modify the base.js file..
 When you modify the file just change the name of the place u are attacking before running the cloner...
 Creates 10 clones of the base script
 
-File Name: copy.js
+File Name: clone.js
 ```js
 cp base.js base1.js
 cp base.js base2.js
