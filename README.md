@@ -1,6 +1,38 @@
 # bitburner
 Welcome to my collection of bitburner scripts
 
+I made this repo because I am bored :p thought I could automate some of the stuff on this weird game xd
+
+Game: https://store.steampowered.com/app/1812820/Bitburner/
+
+```
+While a very basic programming background is recommended, it is not required to play the game!
+
+Write scripts in JavaScript to automate your gameplay
+Hack through a network of servers to train your abilities and earn money
+Solve real programming questions to hone your skills and earn rewards
+Improve your character with 100+ Augmentations
+Trade in the stock market and write automated trading scripts
+Interact with various gameplay mechanics to increase your stats and earn money
+Explore the world and discover different companies, locations, and factions
+Mini-games
+Unlock secret perma-upgrades
+Continuing development!
+```
+
+This game is kinda interesting, it teaches u the fundamentals of javascript to some sort of degree.
+It's not a fully in-depth editor like visual studio code but it's an RPG continious game.
+
+It's not for everybody but it's fun to mess around on and make scripts. So here's what I spent like less than an hour on doing.
+Making this repo. Making the scripts and setting up the commands to automate everything.
+
+This repo can be used for more in-depth research and automation when it comes to this game.
+
+I hope I see the SneakyHub development community submit some pull requests and help grow this repo!
+I would love to see the community interact with a project like this. Just for fun :p 
+
+
+
 # Base Script
 
 !!! WARNING !!!
