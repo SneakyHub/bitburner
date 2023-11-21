@@ -54,6 +54,15 @@ run base.js; run base2.js; run base3.js; run base4.js; run base5.js; run base6.j
 
 # wget
 
+!!! WARNING !!!
+When running this script in your bitburner terminal you'll be straight away given the nano editing screen for the base.js file..
+Please change " iron-gym " to the target of your choosing. Then go ahead and execute the clone.js file then once you have cloned those files. Execute the run.js file.
+
+CMD's
+
+run clone.js
+run run.js
+
 ```
-soon
+wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/base.js base.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/clone.js clone.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/run.js run.js; nano base.js
 ```
