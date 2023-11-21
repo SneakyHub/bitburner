@@ -62,21 +62,12 @@ Creates 10 clones of the base script
 
 File Name: clone.js
 ```js
-cp base.js base1.js
-cp base.js base2.js
-cp base.js base3.js
-cp base.js base4.js
-cp base.js base5.js
-cp base.js base6.js
-cp base.js base7.js
-cp base.js base8.js
-cp base.js base9.js
-cp base.js base10.js
+cp base.js base1.js; cp base.js base2.js; cp base.js base3.js; cp base.js base4.js; cp base.js base5.js; cp base.js base6.js; cp base.js base7.js; cp base.js base8.js; cp base.js base9.js; cp base.js base10.js
 ```
 
 !!! WARNING !!!
 When attempting to run the clone script you may run into an memory error!
-This is okay, just open the clone.js file. Then copy and paste in the commands into your terminal directly.
+This is okay, just open the clone.js file. Then copy and paste in the command into your terminal directly.
 
 # Run scripts
 
