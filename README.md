@@ -40,14 +40,17 @@ This script is what you'll need to modify before using the clone.js file! If you
 
 File Name: base.js
 ```
+var target = "n00dles"; // put your victim here
+
 export async function main(ns) {
+
     while(true) {
-    await ns.weaken('iron-gym');
-    await ns.hack('iron-gym');
-    await ns.hack('iron-gym');
-    await ns.hack('iron-gym');
-    await ns.hack('iron-gym');
-    await ns.hack('iron-gym');
+    await ns.weaken(target);
+    await ns.hack(target);
+    await ns.hack(target);
+    await ns.hack(target);
+    await ns.hack(target);
+    await ns.hack(target);
     }
 }
 ```
