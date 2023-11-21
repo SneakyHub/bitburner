@@ -78,6 +78,9 @@ File Name: run.js
 ```js
 run base.js; run base2.js; run base3.js; run base4.js; run base5.js; run base6.js; run base7.js; run base8.js; run base9.js; run base10.js
 ```
+!!! WARNING !!!
+When attempting to run the clone script you may run into an memory error!
+It's okay, just copy the command line, paste it into your terminal and it should work just fine!
 
 # wget
 
