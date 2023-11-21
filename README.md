@@ -74,6 +74,10 @@ cp base.js base9.js
 cp base.js base10.js
 ```
 
+!!! WARNING !!!
+When attempting to run the clone script you may run into an memory error!
+This is okay, just open the clone.js file. Then copy and paste in the commands into your terminal directly.
+
 # Run scripts
 
 !!! WARNING !!!
