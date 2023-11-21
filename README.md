@@ -96,3 +96,13 @@ run run.js
 ```
 wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/base.js base.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/clone.js clone.js; wget https://raw.githubusercontent.com/SneakyHub/bitburner/main/run.js run.js; nano base.js
 ```
+
+
+
+
+# Note worthy commands
+
+Copying and running in 1 command (just change the number to make it another process )
+```
+cp base.js base18.js; run base18.js
+```
